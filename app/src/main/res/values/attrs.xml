@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="timescaleview">
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="textColor" format="color"></attr>
+        <attr name="scaleColor" format="color"></attr>
+        <attr name="scaleWidth" format="dimension"></attr>
+        <attr name="scaleHeight" format="dimension"></attr>
+        <attr name="topPadding" format="dimension"></attr>
+        <attr name="bottomPadding" format="dimension"></attr>
+        <attr name="paddingTimeWithScale" format="dimension"></attr>
+    </declare-styleable>
+</resources>
