@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.zhaoyong.timely.AlarmActivity">
 
-    <com.example.zhaoyong.timely.TimeScaleView
+    <com.example.zhaoyong.timely.NewTimeScaleView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:textSize="@dimen/text_size"
